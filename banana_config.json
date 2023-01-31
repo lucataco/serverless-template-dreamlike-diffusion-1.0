@@ -1,0 +1,12 @@
+{
+    "name": "Dreamlike Diffusion 1.0",
+    "category": "Computer Vision",
+    "example_input": {
+        "prompt": "a watercolor painting of a rabbit",
+        "negative": "text, ugly",
+        "num_inference_steps" : 50,
+        "guidance_scale" : 7
+    },
+    "example_output": {"base64_output": "<BASE64_STRING>"},
+    "version": "1"
+  }
